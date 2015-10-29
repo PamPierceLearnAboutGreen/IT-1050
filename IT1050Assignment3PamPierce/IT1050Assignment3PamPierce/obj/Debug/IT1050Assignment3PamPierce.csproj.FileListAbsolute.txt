@@ -1,0 +1,6 @@
+C:\Users\Pam\Documents\TriC class work\IT1050Assignment3PamPierce\IT1050Assignment3PamPierce\bin\Debug\IT1050Assignment3PamPierce.exe.config
+C:\Users\Pam\Documents\TriC class work\IT1050Assignment3PamPierce\IT1050Assignment3PamPierce\bin\Debug\IT1050Assignment3PamPierce.exe
+C:\Users\Pam\Documents\TriC class work\IT1050Assignment3PamPierce\IT1050Assignment3PamPierce\bin\Debug\IT1050Assignment3PamPierce.pdb
+C:\Users\Pam\Documents\TriC class work\IT1050Assignment3PamPierce\IT1050Assignment3PamPierce\obj\Debug\IT1050Assignment3PamPierce.csprojResolveAssemblyReference.cache
+C:\Users\Pam\Documents\TriC class work\IT1050Assignment3PamPierce\IT1050Assignment3PamPierce\obj\Debug\IT1050Assignment3PamPierce.exe
+C:\Users\Pam\Documents\TriC class work\IT1050Assignment3PamPierce\IT1050Assignment3PamPierce\obj\Debug\IT1050Assignment3PamPierce.pdb
